@@ -34,11 +34,4 @@ TimeSimGap.m -- Function of judging whether two timestamps are located in the sa
 
 SeqGEN.m -- Function of generate all candidate sets. For each selected ID, the corresponding element in the seq is set as 1.
 
-Change Logs
-============
-Update document of scripts and functions. -- June 9th. 2017
-
-Update the code, run "main.m" to obtain the result.
-Documents in more detail will also be updated soon. -- June 8th. 2017
-
 
